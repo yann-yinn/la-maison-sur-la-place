@@ -1,14 +1,16 @@
 ---
-title: La Maison sur la place coucou
+title: La maison sur la place
 ---
 
-Le café épicerie d’Ambrugeat, à deux pas du lac de Sechemailles a été pendant 120 ans au centre de la vie du bourg......
+Le café épicerie d’Ambrugeat, à deux pas du lac de Sechemailles a été pendant 120 ans au centre de la vie du bourg. Notre projet et de le racheter et de le rénover afin qu'il le soit de nouveau.
 
-Parce que,
-**Un village a besoin d'un lieu où se retrouver**
+La maison sur la place permettra la recontre des différences et des générations autour:
 
-Parce que,
-**Nous avons envie de faire vivre cet endroit**
+- De soirées culturelles et musicales
+- De repas conviviaux
+- De moments de partage autour d’un verre ou d’un café
+- D'ateliers
+- D'échanges de savoirs
+- Ainsi qu'espace dédié au bien-être
 
-Parce que,
-**Cette histoire c’est aussi la vôtre**
+A terme ce lieu associatif permettra d'envisager la création d’emplois.
