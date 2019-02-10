@@ -10,8 +10,15 @@ module.exports = {
     {
       use: "@gridsome/source-filesystem",
       options: {
-        path: "content/homeSections/*.md",
-        typeName: "HomeSection"
+        path: "content/home/*.md",
+        typeName: "ContentHome"
+      }
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "content/page/*.md",
+        typeName: "ContentPage"
       }
     }
   ]

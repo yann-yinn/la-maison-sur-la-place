@@ -2,33 +2,31 @@
   <Layout>
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
     <g-image alt="Example image" src="~/favicon.png" width="135"/>
-    <h1>{{$page.metaData.siteName}}</h1>
+    <h1>{{$static.metaData.siteName}}</h1>
     <div v-html="$page.header.content"/>
   </Layout>
 </template>
 
-<page-query>
-query Home {
+<static-query>
+query {
   metaData {
     siteName
   }
-  header: homeSection(path: "/content/home-sections/header") {
+}
+</static-query>
+
+<page-query>
+query Home {
+  header: contentHome(path: "/content/home/header") {
     title
     content
   }
-  test: homeSection(path: "/content/home-sections/test") {
+  test: contentHome(path: "/content/home/test") {
     title
     content
   }
 }
 </page-query>
-
-
-<script>
-export default {
-  // ..
-};
-</script>
 
 <style>
 .home-links a {
