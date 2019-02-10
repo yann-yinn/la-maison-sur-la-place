@@ -1,0 +1,14 @@
+{
+  "name": "la-maison-sur-la-place",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.4.0",
+    "@gridsome/source-filesystem": "^0.2.0",
+    "@gridsome/transformer-remark": "^0.1.3"
+  }
+}
